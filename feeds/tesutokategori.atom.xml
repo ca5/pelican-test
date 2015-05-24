@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<feed xmlns="http://www.w3.org/2005/Atom"><title>esc-test</title><link href="/" rel="alternate"></link><link href="/feeds/tesutokategori.atom.xml" rel="self"></link><id>/</id><updated>2015-05-25T10:20:00+09:00</updated><entry><title>テスト記事</title><link href="/tesutoji-shi.html" rel="alternate"></link><updated>2015-05-25T10:20:00+09:00</updated><author><name>esc</name></author><id>tag:,2015-05-25:tesutoji-shi.html</id><summary type="html">&lt;h1&gt;h1&lt;/h1&gt;
+<feed xmlns="http://www.w3.org/2005/Atom"><title>esc-test</title><link href="http://ca5.github.io/pelican-test/" rel="alternate"></link><link href="http://ca5.github.io/pelican-test/feeds/tesutokategori.atom.xml" rel="self"></link><id>http://ca5.github.io/pelican-test/</id><updated>2015-05-25T10:20:00+09:00</updated><entry><title>テスト記事</title><link href="http://ca5.github.io/pelican-test/tesutoji-shi.html" rel="alternate"></link><updated>2015-05-25T10:20:00+09:00</updated><author><name>esc</name></author><id>tag:ca5.github.io,2015-05-25:pelican-test/tesutoji-shi.html</id><summary type="html">&lt;h1&gt;h1&lt;/h1&gt;
 &lt;p&gt;日本語問題ないか試す&lt;/p&gt;
 &lt;h2&gt;h2&lt;/h2&gt;
 &lt;p&gt;あああ&lt;br /&gt;
@@ -7,7 +7,7 @@
 &lt;div class="highlight"&gt;&lt;pre&gt;hoge
 fuga
 piyo
-&lt;/pre&gt;&lt;/div&gt;</summary></entry><entry><title>HTML記事</title><link href="/htmlji-shi.html" rel="alternate"></link><updated>2015-05-25T00:00:00+09:00</updated><author><name>ca5</name></author><id>tag:,2015-05-25:htmlji-shi.html</id><summary type="html">
+&lt;/pre&gt;&lt;/div&gt;</summary></entry><entry><title>HTML記事</title><link href="http://ca5.github.io/pelican-test/htmlji-shi.html" rel="alternate"></link><updated>2015-05-25T00:00:00+09:00</updated><author><name>ca5</name></author><id>tag:ca5.github.io,2015-05-25:pelican-test/htmlji-shi.html</id><summary type="html">
         html入稿テスト
         &lt;blockquote&gt;
             blockquote
