@@ -2,3 +2,9 @@
 cache/
 output/
 *.pyc
+
+#for windows
+Include/
+Lib/
+Scripts/
+pip-selfcheck.json
