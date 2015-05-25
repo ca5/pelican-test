@@ -1,0 +1,3 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom"><title>esc-test</title><link href="http://ca5.github.io/pelican-test/" rel="alternate"></link><link href="http://ca5.github.io/pelican-test/feeds/kategori2.atom.xml" rel="self"></link><id>http://ca5.github.io/pelican-test/</id><updated>2015-05-26T00:20:00+09:00</updated><entry><title>テスト記事windows</title><link href="http://ca5.github.io/pelican-test/tesutoji-shi-windows.html" rel="alternate"></link><updated>2015-05-26T00:20:00+09:00</updated><author><name>esc</name></author><id>tag:ca5.github.io,2015-05-26:pelican-test/tesutoji-shi-windows.html</id><summary type="html">&lt;h1&gt;windowsで更新してみるテスト&lt;/h1&gt;
+&lt;p&gt;windowsつらいお&lt;/p&gt;</summary></entry></feed>
