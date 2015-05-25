@@ -1,5 +1,4 @@
 .python-version
 cache/
-content/
 output/
 *.pyc
