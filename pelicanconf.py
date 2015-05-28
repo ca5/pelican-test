@@ -4,7 +4,7 @@ from __future__ import unicode_literals
 
 AUTHOR = u'esc'
 SITENAME = u'esc-test'
-SITEURL = 'http://ca5.github.io/pelican-test/'
+SITEURL = ''
 
 PATH = 'content'
 
